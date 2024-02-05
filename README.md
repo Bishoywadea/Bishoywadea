@@ -23,6 +23,7 @@
 </div>
 
 <!--Intro start-->
+- 🏎 Path Planning Member at <a href="https://www.linkedin.com/company/cairo-university-racing-team-formula-student/mycompany">Cairo University Racing Team - Formula Student.</a>
 
 - ☁️ Interested in Problem solving, Backend, Mobile development, and Autonomous Driving 💻
 
