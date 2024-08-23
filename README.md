@@ -23,9 +23,11 @@
 </div>
 
 <!--Intro start-->
-- 🏎 Path Planning Member at <a href="https://www.linkedin.com/company/cairo-university-racing-team-formula-student/mycompany">Cairo University Racing Team - Formula Student.</a>
+- <img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=15/> Software Engineering Intern at Microsoft
 
-- ☁️ Interested in Problem solving, Backend, Mobile development, and Autonomous Driving 💻
+- 🏎 Former Path Planning Member at <a href="https://www.linkedin.com/company/cairo-university-racing-team-formula-student/mycompany">Cairo University Racing Team - Formula Student.</a>
+
+- ☁️ Interested in Problem solving, Backend, Mobile development, Applied Science and Autonomous Driving 💻
 
 - 💻 Computer Engineering Student at <a href="http://eng.cu.edu.eg/">Faculty of Engineering, Cairo University.</a>
 <!--Intro end-->
@@ -40,7 +42,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,dart,js,css,html,spring,nodejs,express,firebase,flutter,linux,mongodb,postman,postgres,pug,ros,git&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,dart,js,css,html,spring,nodejs,express,firebase,flutter,linux,mongodb,postman,postgres,pug,ros,git,azure,adf&perline=14" />
   </a>
 </p>
 
